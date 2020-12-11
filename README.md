@@ -24,7 +24,7 @@
 > |:--:|:--:|
 > |**ชื่อ-นามสกุล**|ณัฐกฤษณ์ จุลาภา|
 > |*__My Git codeCamp5__*| [Link](https://github.com/NuttakritChulabha/CodeCamp5/tree/master/CodeCamp)|
-> |**Picture**|![Picture](nuttakrit.JPG)|
+> |**Picture**|![Picture](nuttakrit.jpg)|
 ---
 
 # lab 3 slide 43 git flow 
