@@ -24,7 +24,7 @@
 > |:--:|:--:|
 > |**ชื่อ-นามสกุล**|ณัฐกฤษณ์ จุลาภา|
 > |*__My Git codeCamp5__*| [Link](https://github.com/NuttakritChulabha/CodeCamp5/tree/master/CodeCamp)|
-> |**Picture**|![Picture](nuttakrit.JPG)|
+> |**Picture**|![Picture](./support/nuttakrit.JPG)|
 ---
 
 # lab 3 slide 43 git flow 
@@ -39,3 +39,4 @@ save และ ทำการ add file
 
 ># lab 3
 > **Link file lab3.txt** =>    [Link](lab3.txt)
+> ![Link](./support/lab 3.JPG)
